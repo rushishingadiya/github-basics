@@ -1,6 +1,6 @@
 <h1>Github Basics</h1>
 
-@@ Git is really cery good
+@@ Git is really very good
 
 Remote repo to help me out my Git skills!
 
